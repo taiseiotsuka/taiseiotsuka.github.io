@@ -1,0 +1,20 @@
+theme: jekyll-theme-cayman
+# base_html: https://github.com/pages-themes/cayman/blob/master/_layouts/default.html
+title: とあるルビイストの備忘録
+description: 当サイトはTaiseiOtsukaが試した技術を、備忘録として公開しています
+lang: ja
+markdown: kramdown
+google_analytics: UA-xxxxx
+url: https://taiseiotsuka.github.io
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /items/:categories/:title
+github:
+  is_project_page: true
+  repository_url: https://github.com/taiseiotsuka
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

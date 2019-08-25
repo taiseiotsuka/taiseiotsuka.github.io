@@ -1,1 +1,0 @@
-# taiseiotsuka.github.io
