@@ -4,7 +4,7 @@ title: とあるルビイストの備忘録
 description: 当サイトはTaiseiOtsukaが試した技術を、備忘録として公開しています
 lang: ja
 markdown: kramdown
-google_analytics: UA-xxxxx
+google_analytics: UA-146429146-1
 url: https://taiseiotsuka.github.io
 defaults:
   - scope:
